@@ -8,6 +8,7 @@ public class JavaU2W3D4Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaU2W3D4Application.class, args);
+
 	}
 
 }
