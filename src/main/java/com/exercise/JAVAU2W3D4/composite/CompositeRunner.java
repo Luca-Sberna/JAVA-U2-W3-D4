@@ -20,7 +20,6 @@ public class CompositeRunner {
 		sottosezione.aggiungiElemento(new Pagina());
 
 		sezione2.aggiungiElemento(sottosezione);
-
 		libro.aggiungiElemento(sezione1);
 		libro.aggiungiElemento(sezione2);
 
@@ -45,7 +44,6 @@ public class CompositeRunner {
 		sottosezione2.aggiungiElemento(new Pagina());
 
 		sezione2_2.aggiungiElemento(sottosezione2);
-
 		libro2.aggiungiElemento(sezione1_2);
 		libro2.aggiungiElemento(sezione2_2);
 
